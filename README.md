@@ -1,2 +1,2 @@
 # first-day-repo
-Thiss is where it all begins.
+This is where it all begins.
